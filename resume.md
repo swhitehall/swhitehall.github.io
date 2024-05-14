@@ -16,14 +16,8 @@ MPhil Meteorology
 __University of the West Indies - Cave Hill Campus__
 Bsc. Meteorology 
 
-## Awards
-
-`2012`
-Name of Award, Organization 
 
 ## Publications
-
-<!-- A list is also available [online](https://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
 ### Journals
 
@@ -33,13 +27,6 @@ Validating Salinity from SMAP and HYCOM Data with Saildrone Data during EUREC4A-
 `2021`
 EUREC4A, ESSD
 
-### Books
-
-`1994`
-Book Title, Journal Title
-
-`1994`
-Book Title, Journal Title
 
 
 ## Presentations
@@ -56,19 +43,22 @@ Monitoring the Saharan Air Layer using Satellite Imagery .100th American Meteoro
 `Current`
 __Meteorological Assistant__, Barbados Meteorological Services 
 
-- Task
-- Task
+- Perform and record routine and non-routine observations according to WMO/ICAO and departmental standards
+- Disseminate METARs, SPECIs and SYNOP reports in accordance to WMO/ICAO and departmental standards and guidelines.
+- 
 
-`1994-1996`
-__Current Job Title__, Current Employer 
+`2018 - 2021`
+__Intern__, Caribbean Institute for Meteorology and Hydrology
 
-- Task
-- Task
+-Compilation of the Hybrid Coordinate Ocean Model (HYCOM) to investigate upper ocean conditions in the Caribbean
+-  Assisted with the National Oceanic and Atmospheric Administration (NOAA) Satellite Focused Saharan Air Layer (SAL) Evaluation
+- Created case studies of severe weather which impacted the Caribbean
+  
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: May 2024 -->
 
 
