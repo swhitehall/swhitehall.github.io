@@ -1,12 +1,12 @@
 # Site wide configuration
 
-title: Site Title
+title: Shanice Whitehall
 locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Your Name
+  name: Shanice Whitehall
   avatar: bio-photo.jpg
   bio: "A brief description of yourself."
   email: swhitehall@cimh.edu.bb
