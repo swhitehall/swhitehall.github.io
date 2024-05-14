@@ -19,7 +19,7 @@ Bsc. Meteorology
 
 ## Publications
 
-### Journals
+## Journals
 
 `2022`
 Validating Salinity from SMAP and HYCOM Data with Saildrone Data during EUREC4A-OA/ATOMIC, Remote Sensing
@@ -45,12 +45,12 @@ __Meteorological Assistant__, Barbados Meteorological Services
 
 - Perform and record routine and non-routine observations according to WMO/ICAO and departmental standards
 - Disseminate METARs, SPECIs and SYNOP reports in accordance to WMO/ICAO and departmental standards and guidelines.
-- 
+
 
 `2018 - 2021`
 __Intern__, Caribbean Institute for Meteorology and Hydrology
 
--Compilation of the Hybrid Coordinate Ocean Model (HYCOM) to investigate upper ocean conditions in the Caribbean
+- Compilation of the Hybrid Coordinate Ocean Model (HYCOM) to investigate upper ocean conditions in the Caribbean
 -  Assisted with the National Oceanic and Atmospheric Administration (NOAA) Satellite Focused Saharan Air Layer (SAL) Evaluation
 - Created case studies of severe weather which impacted the Caribbean
   
