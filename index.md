@@ -4,13 +4,14 @@ excerpt: "About Me..."
 menutitle: Home
 menuorder: 1
 ---
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Having grown up in Barbados, tropical weather has always been a part of my life. In recognition of the
+vulnerability of Small Island Developing States to the effects of weather and climatic hazards,
+enhancing resilience and promoting sustainable development in the Caribbean region is at the forefront of my research.
+My main research efforts include the study of tropical cyclogenesis particularly
+the role of air - sea interactions in the rapid intensification of tropical cyclones.
 
 ## Current Interests and Projects:
 
-- Lorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
-- DLorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
+- The Effect of the Upper Ocean on Tropical Cyclone Intensification in the eastern Caribbean
+- Modelling Ocean Heat Content and Salinity across the eastern Caribbean
+  
