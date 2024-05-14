@@ -5,17 +5,17 @@ menutitle: Resume
 ---
 ## Currently
 
-Current Position Description
+Graduate Student at the Univeristy of the West Indies
 
 ## Education
 
-`1990 - 1994`
-__University Name__
+`2020 - Present`
+__University of the West Indies - Cave Hill Campus__
 Degree Awarded
 
-`1995 - 1997`
-__University Name__
-Degree Awarded 
+`2012 - 2016`
+__University of the West Indies - Cave Hill Campus__
+Bsc. Meteorology 
 
 ## Awards
 
