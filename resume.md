@@ -25,6 +25,9 @@ Bsc. Meteorology
 Validating Salinity from SMAP and HYCOM Data with Saildrone Data during EUREC4A-OA/ATOMIC, Remote Sensing
 
 `2021`
+The ice-nucleating activity of African mineral dust in the Caribbean boundary layer, Atmos. Chem. Phys.
+
+`2021`
 EUREC4A, ESSD
 
 
@@ -53,6 +56,7 @@ __Intern__, Caribbean Institute for Meteorology and Hydrology
 - Compilation of the Hybrid Coordinate Ocean Model (HYCOM) to investigate upper ocean conditions in the Caribbean
 -  Assisted with the National Oceanic and Atmospheric Administration (NOAA) Satellite Focused Saharan Air Layer (SAL) Evaluation
 - Created case studies of severe weather which impacted the Caribbean
+- Investigated the efficiency and concentrations of ice nucleating particles in dust rich and dust poor environments in Barbadosin collaboration with the University of Leeds
   
 
 
