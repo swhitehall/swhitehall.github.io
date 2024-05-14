@@ -3,8 +3,6 @@ layout: resume
 menuorder: 3
 menutitle: Resume
 ---
-## Currently
-
 Graduate Student at the University of the West Indies
 
 ## Education
