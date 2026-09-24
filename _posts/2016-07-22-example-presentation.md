@@ -1,24 +1,13 @@
 ---
-layout: slide
-title: Example Reveal.js Presentation Deck
-excerpt: A sample file showing the correct markup for creating a Reveal.js slide deck"
-# theme: simple
-transition: convex
-tags: [presentation]
-category: presentation
+layout: presentation-post-index
+menutitle: Presentations
+menuorder: 2
+excerpt: "Recent Presentations"
 ---
-<section data-markdown>
-  <textarea data-template>
-    ## Reveal.js and Jekyll Academic
-    ---
-    ## HTML or Markdown
-    Reveal.js works with either. Use whatever you are more comfortable with.
-    ---
-    ## Works Anywhere
-    By creating presentations using Reveal.js and hosting them on your Jekyll Academic site you will have access to them anywhere. No need to worry about software compatibility, no need to sign in to email accounts on public machines. Simply load your website and select the presentation.
-    ---
-    ## More Information
-    Jekyll Academic includes everything that you need in order to make Reveal.js work. Copy this file and edit it to begin making your own slide deck.  
-    For more information about all of the options available in Reveal.js please the [Reveal.js Demo Website](https://lab.hakim.se/reveal-js/#/)
-  </textarea>
-</section>
+## Presentations
+
+`2021`
+Validating salinity from smap and hycom data with saildrone data during eurec4a-oa/atomic .American Geophysical Union 2021 Fall Meeting. https://agu2021fallmeeting-agu.ipostersessions.com/Default.aspx?s=87-08-1F-E6-51-73-33-8E-07-13-6D-77-BA-39-6D-BC
+
+`2020`
+Monitoring the Saharan Air Layer using Satellite Imagery .100th American Meteorological Society (AMS) Annual Meeting, Boston, MA
