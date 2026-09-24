@@ -49,12 +49,12 @@ __Technical Assistant__ for the Climate Systems, Techniques and Resources for Im
 `2021 - 2025`
 
 __Meteorologist__, Barbados Meteorological Services 
-Successfully provided real-time weather forecasts for Barbados to the public and aviation sector.
--Analysis of observational and forecast data to produce aviation-specific weather forecasts for Barbados, Dominica and St. Vincent and the Grenadines. 
--The provision of real-time updates and alerts for emerging hazards using an Impacts Based Forecasting matrix. 
--Preparation and dissemination of severe weather information statements, advisories, watches and warning for BMS area of responsibility.
-Assisted in the provision of climate services for national stakeholders across the water, energy and agriculture sectors.
--Visualised and analysed climate data from climatological stations and automatic weather stations maintained by the BMS using QGIS.
+- Successfully provided real-time weather forecasts for Barbados to the public and aviation sector.
+- Analysis of observational and forecast data to produce aviation-specific weather forecasts for Barbados, Dominica and St. Vincent and the Grenadines. 
+- The provision of real-time updates and alerts for emerging hazards using an Impacts Based Forecasting matrix. 
+- Preparation and dissemination of severe weather information statements, advisories, watches and warning for BMS area of responsibility.
+- Assisted in the provision of climate services for national stakeholders across the water, energy and agriculture sectors.
+- Visualised and analysed climate data from climatological stations and automatic weather stations maintained by the BMS using QGIS.
 
 
 __Meteorological Assistant__, Barbados Meteorological Services 
