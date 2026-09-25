@@ -28,23 +28,23 @@ __Technical Assistant__ for the Climate Systems, Techniques and Resources for Im
 -	Coauthored updated chapters in the State of the Caribbean Climate Report. 
 
 `2025- 2026`
-__Research Assistant__ Caribbean Institute for Meteorology and Hydrology
+__Research Assistant__, Caribbean Institute for Meteorology and Hydrology
+
 -Compilation of the Hybrid Coordinate Ocean Model (HYCOM) to investigate upper ocean conditions in the Caribbean.
 -Modelled sea surface temperature, salinity, ocean heat content across the Lesser Antilles.
 -Stimulated hurricanes that underwent rapid intensification on approach to the Lesser Antilles.
 
 `2021 - 2025`
-
 __Meteorologist__, Barbados Meteorological Services 
-- Successfully provided real-time weather forecasts for Barbados to the public and aviation sector.
-- Analysis of observational and forecast data to produce aviation-specific weather forecasts for Barbados, Dominica and St. Vincent and the Grenadines. 
-- The provision of real-time updates and alerts for emerging hazards using an Impacts Based Forecasting matrix. 
-- Preparation and dissemination of severe weather information statements, advisories, watches and warning for BMS area of responsibility.
+
+- Successfully provided real-time weather forecasts for Barbados and aviation-specific weather forecasts for Barbados, Dominica and St. Vincent and the Grenadines. 
+- Prepared and disseminated severe weather information statements, advisories, watches and warnings for BMS area of responsibility.
 - Assisted in the provision of climate services for national stakeholders across the water, energy and agriculture sectors.
 - Visualised and analysed climate data from climatological stations and automatic weather stations maintained by the BMS using QGIS.
 
 `2018 - 2021`
 __Intern__, Caribbean Institute for Meteorology and Hydrology
+
 - Participated in the 2020 EUREC4A field campaign, a sophisticated collaborative research initiative done to observe the role of clouds in climate change.
 - Coauthored research article on the validation of salinity data from Saildrones
 - Compilation of the Hybrid Coordinate Ocean Model (HYCOM) to investigate upper ocean conditions in the Caribbean
