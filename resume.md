@@ -15,7 +15,7 @@ Topic: The role of the upper ocean in tropical cyclone intensification in the Ea
 
 `2012 - 2016`
 __University of the West Indies - Cave Hill Campus__
-Bsc. Meteorology with Honours
+Bsc. Meteorology (Hons)
 Focus Areas: Meteorology and Climatology.
 Research Project: The Influence of ENSO on Daily Rainfall in the Eastern Caribbean
 
