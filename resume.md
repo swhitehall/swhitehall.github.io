@@ -7,17 +7,17 @@ Graduate Student at the University of the West Indies
 
 ## Education
 
-`2020 - Present`
+`2020 - 2026`
 __University of the West Indies - Cave Hill Campus__
 MPhil Meteorology
 `2012 - 2016`
 __University of the West Indies - Cave Hill Campus__
-Bsc. Meteorology 
+Bsc. Meteorology with Honours
+
+
 
 
 ## Publications
-
-## Journals
 
 `2022`
 Validating Salinity from SMAP and HYCOM Data with Saildrone Data during EUREC4A-OA/ATOMIC, Remote Sensing
