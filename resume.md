@@ -30,9 +30,9 @@ __Technical Assistant__ for the Climate Systems, Techniques and Resources for Im
 `2025- 2026`
 __Research Assistant__, Caribbean Institute for Meteorology and Hydrology
 
--Compilation of the Hybrid Coordinate Ocean Model (HYCOM) to investigate upper ocean conditions in the Caribbean.
--Modelled sea surface temperature, salinity, ocean heat content across the Lesser Antilles.
--Stimulated hurricanes that underwent rapid intensification on approach to the Lesser Antilles.
+- Compilation of the Hybrid Coordinate Ocean Model (HYCOM) to investigate upper ocean conditions in the Caribbean.
+- Modelled sea surface temperature, salinity, ocean heat content across the Lesser Antilles.
+- Stimulated hurricanes that underwent rapid intensification on approach to the Lesser Antilles.
 
 `2021 - 2025`
 __Meteorologist__, Barbados Meteorological Services 
